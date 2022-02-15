@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 My name is **Dionis!**
+I am an enthusiastic and driven Full Stack Web Developer student in BloomTech (fka, Lambda School).
 
 <!--
 **EstrellaDionis/EstrellaDionis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
