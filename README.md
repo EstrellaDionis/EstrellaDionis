@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dionis Estrella</h1>
 <h3 align="center">A passionate frontend developer from Michigan</h3>
-<p> I love to create whether it's music, drawing or programming, being able to take an idea or inspiration and creating something with it is one of the things that make me happy to be here. With that being said, I have always enjoyed helping others and in this technology driven world we're in and with my love to create, I knew that programming was I could learn to serve myself and others!</p>
+<p align="left"> I love to create whether it's music, drawing or programming, being able to take an idea or inspiration and creating something with it is one of the things that make me happy to be here. With that being said, I have always enjoyed helping others and in this technology driven world we're in and with my love to create, I knew that programming was I could learn to serve myself and others!</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/EstrellaDionis](https://github.com/EstrellaDionis)
 
