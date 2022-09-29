@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **dionisestrella@gmail.com**
 
-- ⚡ Fun fact **I was a former sponsored gamer**
+- ⚡ Fun fact **I was a former sponsored gamer**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
